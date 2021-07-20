@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "cssnano": "5.0.6",
-    "parcel": "2.0.0-beta.3.1",
+    "parcel": "2.0.0-nightly.776",
     "tailwindcss": "2.2.4"
   }
 }
